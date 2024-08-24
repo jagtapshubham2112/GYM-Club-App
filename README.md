@@ -1,4 +1,4 @@
-# Gym-Management
+# Gym-Management App
 Gym Management Android App
 
 •	Create, manage and organize your fitness club<br>
